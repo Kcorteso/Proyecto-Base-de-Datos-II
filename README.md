@@ -23,7 +23,6 @@ El sistema permite gestionar procesos relacionados con:
 - Inventario físico
 - Gestión de envíos
 - Catálogo flexible de productos
-- Seguimiento GPS en tiempo real
 - Reseñas y evidencias multimedia
 - Solicitudes de reembolso
 
