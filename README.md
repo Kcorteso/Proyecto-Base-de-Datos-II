@@ -116,7 +116,7 @@ Esto permite evaluar la viabilidad de un reembolso de forma más eficiente.
 
 - [x] Propuesta de dominio
 - [x] Modelo entidad-relación
-- [x] Modelo relacional
+- [ ] Modelo relacional
 - [x] Modelo documental MongoDB
 - [ ] Procedimientos almacenados
 - [ ] Triggers
