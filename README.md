@@ -7,9 +7,9 @@ Proyecto académico enfocado en el desarrollo de una arquitectura híbrida utili
 # Integrantes
 
 - Rafael Esteban Arango Castro
-- Integrante 2
-- Integrante 3
-- Integrante 4
+- Daniel Novoa Reina
+- Sebastina Ayala
+- Santigo Kevin Cortez
 
 ---
 
